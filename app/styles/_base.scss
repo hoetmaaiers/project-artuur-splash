@@ -1,0 +1,31 @@
+html,
+body {
+  position: relative;
+  height: 100%;
+  font-size: 15px;
+  color: $dark;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+h1 {
+  font-family: "basic title font";
+  font-size: 1.6em;
+  text-shadow: rgba(0, 0, 0, 0.59) 0px 0px;
+}
+
+p {
+  color: $dark;
+  line-height: 1.4em;
+}
+
+ul {
+  color: $dark
+}
+
+strong {
+  font-weight: bold;
+  color: $black;
+}
